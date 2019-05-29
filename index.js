@@ -1,4 +1,4 @@
 function add() {
-  return a + b
+  return var a + var b
 }
 
